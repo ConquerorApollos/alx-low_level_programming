@@ -4,7 +4,7 @@
  * @size: number elements array
  * @c: char
  * Return: pointer
-1 */
+ */
 
 char *create_array(unsigned int size, char c)
 {
